@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Abhishekkumarreddy485
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Abhishek Kumar Reddy 
+- 👀 I’m interested in Software Development 
+- 🌱 I’m Working in IT as an Associate Software Engineer 
+- 💞️ I’m looking to collaborate with other teams to gain expertise as a Developer 
+- 📫 How to reach me, Abhishekkumarreddy96@gmail.com this is my MailId.
 
 <!---
 Abhishekkumarreddy485/Abhishekkumarreddy485 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
